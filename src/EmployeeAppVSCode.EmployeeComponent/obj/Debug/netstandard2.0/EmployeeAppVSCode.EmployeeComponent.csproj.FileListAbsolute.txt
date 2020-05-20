@@ -1,0 +1,9 @@
+C:\Development\CSharpApplications\EmployeeAppVSCode\src\EmployeeAppVSCode.EmployeeComponent\bin\Debug\netstandard2.0\EmployeeAppVSCode.EmployeeComponent.deps.json
+C:\Development\CSharpApplications\EmployeeAppVSCode\src\EmployeeAppVSCode.EmployeeComponent\bin\Debug\netstandard2.0\EmployeeAppVSCode.EmployeeComponent.dll
+C:\Development\CSharpApplications\EmployeeAppVSCode\src\EmployeeAppVSCode.EmployeeComponent\bin\Debug\netstandard2.0\EmployeeAppVSCode.EmployeeComponent.pdb
+C:\Development\CSharpApplications\EmployeeAppVSCode\src\EmployeeAppVSCode.EmployeeComponent\obj\Debug\netstandard2.0\EmployeeAppVSCode.EmployeeComponent.csprojAssemblyReference.cache
+C:\Development\CSharpApplications\EmployeeAppVSCode\src\EmployeeAppVSCode.EmployeeComponent\obj\Debug\netstandard2.0\EmployeeAppVSCode.EmployeeComponent.AssemblyInfoInputs.cache
+C:\Development\CSharpApplications\EmployeeAppVSCode\src\EmployeeAppVSCode.EmployeeComponent\obj\Debug\netstandard2.0\EmployeeAppVSCode.EmployeeComponent.AssemblyInfo.cs
+C:\Development\CSharpApplications\EmployeeAppVSCode\src\EmployeeAppVSCode.EmployeeComponent\obj\Debug\netstandard2.0\EmployeeAppVSCode.EmployeeComponent.dll
+C:\Development\CSharpApplications\EmployeeAppVSCode\src\EmployeeAppVSCode.EmployeeComponent\obj\Debug\netstandard2.0\EmployeeAppVSCode.EmployeeComponent.pdb
+C:\Development\CSharpApplications\EmployeeAppVSCode\src\EmployeeAppVSCode.EmployeeComponent\obj\Debug\netstandard2.0\EmployeeAppVSCode.EmployeeComponent.csproj.CoreCompileInputs.cache
